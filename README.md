@@ -1,4 +1,4 @@
-# Python Fundamentals
+# Python Documentation
 
 A collection of Python fundamentals notes and practice programs, covering core data types and control structures.
 
